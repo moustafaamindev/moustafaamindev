@@ -1,4 +1,3 @@
-[![MasterHead](file:///C:/Users/darsh/Downloads/White%20Modern%20Blogger%20YouTube%20Channel%20Art.png)]
 <h1 align="center">Hi 👋, I'm Mostafa Amin</h1>
 <h3 align="center">Front End Developer based in Egypt</h3>
 
