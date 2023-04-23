@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mostafa Amin</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Mostafa. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+</br>
 <h3 align="center">Front End Developer based in Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moustafaamindev&label=Profile%20views&color=0e75b6&style=flat" alt="moustafaamindev" /> </p>
