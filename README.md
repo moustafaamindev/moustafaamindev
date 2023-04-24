@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/moustafaamindev/moustafaamindev.git"><img width="80%" alt="Hello, I'm Mostafa. I do open source!" src="./moustafaamindev/asset/White Modern Blogger YouTube Channel Art.png" /></a></p>
+<p align="center"><a href="https://github.com/moustafaamindev/moustafaamindev.git"><img width="80%" alt="Hello, I'm Mostafa. I do open source!" src="./asset/White Modern Blogger YouTube Channel Art.png" /></a></p>
 </br>
 <h3 align="center">Front End Developer based in Egypt</h3>
 
